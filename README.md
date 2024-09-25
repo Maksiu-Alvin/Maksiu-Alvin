@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi There!
+I am a student at Univercity College London studying Computer Science Master of Engeeniring Degree. I am currently working on Neural Network software used to read emotions from faces.
 
 <!--
 **Maksiu-Alvin/Maksiu-Alvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
